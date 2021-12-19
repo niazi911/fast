@@ -1,0 +1,3 @@
+rm -rf BAJINGAN_Z
+cd BAJINGAN_Z
+
